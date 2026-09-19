@@ -1,64 +1,64 @@
 {
-  "products": [
+  "books": [
     {
       "id": 1,
-      "name": "Wireless Headphones",
-      "category": "Electronics",
-      "price": 2499,
-      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e",
-      "description": "High-quality wireless headphones with clear sound, deep bass, and comfortable ear cushions. Perfect for music, gaming, and everyday use.",
-      "rating": 4.5,
-      "stock": 25
+      "title": "The Pragmatic Programmer",
+      "author": "David Thomas & Andrew Hunt",
+      "price": 850,
+      "category": "Programming",
+      "description": "A practical guide to becoming a better and more effective software developer.",
+      "publishedYear": 1999,
+      "rating": 4.8
     },
     {
       "id": 2,
-      "name": "Smart Watch",
-      "category": "Electronics",
-      "price": 3499,
-      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30",
-      "description": "A stylish smart watch with fitness tracking, heart rate monitoring, notifications, and a long-lasting battery.",
-      "rating": 4.3,
-      "stock": 18
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "price": 950,
+      "category": "Programming",
+      "description": "A guide to writing clean, readable, and maintainable code.",
+      "publishedYear": 2008,
+      "rating": 4.7
     },
     {
       "id": 3,
-      "name": "Running Shoes",
-      "category": "Fashion",
-      "price": 2899,
-      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff",
-      "description": "Lightweight and comfortable running shoes designed for workouts, running, walking, and everyday activities.",
-      "rating": 4.7,
-      "stock": 30
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "price": 700,
+      "category": "Self Help",
+      "description": "A practical book about building good habits and breaking bad ones.",
+      "publishedYear": 2018,
+      "rating": 4.9
     },
     {
       "id": 4,
-      "name": "Leather Backpack",
-      "category": "Accessories",
-      "price": 1999,
-      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62",
-      "description": "Durable and stylish leather backpack with multiple compartments. Ideal for students, professionals, and daily travel.",
-      "rating": 4.4,
-      "stock": 15
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "price": 550,
+      "category": "Fiction",
+      "description": "An inspiring story about following your dreams and finding your purpose.",
+      "publishedYear": 1988,
+      "rating": 4.6
     },
     {
       "id": 5,
-      "name": "Mechanical Keyboard",
-      "category": "Computer",
-      "price": 4299,
-      "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3",
-      "description": "RGB mechanical keyboard with responsive keys and a durable design. Great for programming, gaming, and office work.",
-      "rating": 4.8,
-      "stock": 12
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert T. Kiyosaki",
+      "price": 650,
+      "category": "Finance",
+      "description": "A popular book about personal finance, investing, and financial education.",
+      "publishedYear": 1997,
+      "rating": 4.5
     },
     {
       "id": 6,
-      "name": "Ceramic Coffee Mug",
-      "category": "Home",
-      "price": 599,
-      "image": "https://images.unsplash.com/photo-1514228742587-6b1558fcf93a",
-      "description": "Minimal and elegant ceramic coffee mug that is perfect for coffee, tea, and other hot beverages at home or in the office.",
-      "rating": 4.2,
-      "stock": 40
+      "title": "You Don't Know JS",
+      "author": "Kyle Simpson",
+      "price": 800,
+      "category": "JavaScript",
+      "description": "A detailed guide to understanding JavaScript concepts and fundamentals.",
+      "publishedYear": 2014,
+      "rating": 4.7
     }
   ]
 }
